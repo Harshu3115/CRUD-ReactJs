@@ -1,0 +1,65 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Rahul Sharma",
+      "mobile": "9876543210",
+      "email": "rahul.sharma@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Priya Patil",
+      "mobile": "9123456780",
+      "email": "priya.patil@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Amit Verma",
+      "mobile": "9988776655",
+      "email": "amit.verma@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Sneha Kulkarni",
+      "mobile": "9012345678",
+      "email": "sneha.k@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Rohan Deshmukh",
+      "mobile": "9871234567",
+      "email": "rohan.d@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "Neha Joshi",
+      "mobile": "9090909090",
+      "email": "neha.j@gmail.com"
+    },
+    {
+      "id": "7",
+      "name": "Vikas Singh",
+      "mobile": "9765432109",
+      "email": "vikas.s@gmail.com"
+    },
+    {
+      "id": "8",
+      "name": "Pooja Mehta",
+      "mobile": "9876501234",
+      "email": "pooja.m@gmail.com"
+    },
+    {
+      "id": "9",
+      "name": "Karan Shah",
+      "mobile": "9345678901",
+      "email": "karan.s@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "HARSHAD SHINDE",
+      "email": "harshadshinde3131@gmail.com",
+      "mobile": "9322916716"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
